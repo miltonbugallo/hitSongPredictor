@@ -1,0 +1,2 @@
+# hitSongPredictor
+Implementación de un predictor como trabajo final de la materia Inteligencia Computacional. Predice si una canción será un hit o no, con un dataset obtenido de la API de Spotify. Se realizó una validación cruzada y para cada partición del dataset se entrenó con los algoritmos de clasficación: MLP, K-Nearest, Decision Tree, SVC y Random Forest utilizando la librería Scikit-Learn. Ejecutado en Google Colab.
